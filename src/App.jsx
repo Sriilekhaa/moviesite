@@ -6,11 +6,9 @@ function App() {
 
   return (
     <>
-       <MovieCard movie={{title: "tim's film", release_date:"2024" }}/>
-       <MovieCard movie={{title: "john's film", release_date:"2024" }}/>
-       <MovieCard movie={{title: "my 2022 film", release_date:"2024" }}/>
+       <Home/>
     </>
-    </>
+    
   );
 }
 
